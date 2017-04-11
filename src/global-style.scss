@@ -19,9 +19,16 @@
 	* {
 		box-sizing: border-box;
 	}
-	#app {
-		height: 100%;
+	.header {
+		display: flex;
+		justify-content: center;
     color: var(--primary);
+	}
+	#map {
+		height: 90%;
+	}
+	.mapPreReq {
+		height: 100%;
 	}
 	.content {
 		font-size: .9rem;

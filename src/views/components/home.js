@@ -1,6 +1,6 @@
 import { h } from "preact";
 import { Link } from "preact-router";
-import Card from "../tags/card";
+import Card from "../containers/card";
 
 import styles from "./home.scss";
 

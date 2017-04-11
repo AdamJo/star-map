@@ -3,7 +3,7 @@ import { Link } from "preact-router";
 
 export default function() {
   return (
-    <header className="header">
+    <header class="header">
       <h1>Sup</h1>
       <nav />
     </header>

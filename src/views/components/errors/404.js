@@ -1,5 +1,5 @@
 import { h } from "preact";
-import Card from "../../tags/card";
+import Card from "../../containers/card";
 
 export default function(props) {
   return (
