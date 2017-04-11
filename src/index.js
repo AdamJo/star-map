@@ -1,11 +1,10 @@
-
 import { render, h } from 'preact';
 import App from './views'
 import './global-style';
 
 let elem;
 function init() {
-	elem = render(App, document.body, elem);
+	elem = render(<App/>, document.body, elem);
 }
 
 init();
