@@ -1,0 +1,9 @@
+{
+  "name": "Star Map",
+  "short_name": "StarMap",
+  "start_url": "/?homescreen=1",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#FF69B4",
+  "theme_color": "#90EE90"
+}
