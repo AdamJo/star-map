@@ -1,0 +1,3 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`snapshot is working! 1`] = `"<div id=\\"app\\"><header class=\\"header\\"><h1>Sup</h1><nav></nav></header><main id=\\"content\\"><div class=\\"page page__404\\"><div class=\\"card\\"><h1>404 Page</h1><p>Looks like you were given a bad link ;-)</p><pre>blank</pre></div></div></main></div>"`;
